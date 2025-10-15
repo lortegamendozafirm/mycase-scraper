@@ -17,7 +17,7 @@ USER_DATA_DIR.mkdir(parents=True, exist_ok=True)
 HEADLESS = os.getenv("PW_HEADLESS", "true").lower() == "true"   # Cambia a False si quieres ver el navegador
 DEFAULT_TIMEOUT = int(os.getenv("PW_TIMEOUT_MS", 8000))         # 8 segundos
 BLOCK_RESOURCES = ["image", "media", "font", "stylesheet"]      # tipos de recursos que no cargamos
-
+CHROME_CHANNEL = "chrome"
 
 def create_playwright_context(persistent: bool = True):
     """
@@ -43,6 +43,7 @@ def create_playwright_context(persistent: bool = True):
                     "--disable-blink-features=AutomationControlled",
                     "--start-maximized",
                 ],
+                channel=CHROME_CHANNEL
             )
             logger.info("🧠 Contexto persistente creado en %s", USER_DATA_DIR)
         else:

@@ -30909,3 +30909,1065 @@ Call log:
 [2025-10-14 15:07:17] [INFO] __main__: 
 ========== Enviando mensaje al caso 32327724 ==========
 [2025-10-14 15:07:22] [INFO] __main__: ✅ Proceso completado correctamente.
+[2025-10-15 07:15:41] [INFO] data_layer.playwright_driver: 🧠 Contexto persistente creado en C:\ChromeProfiles\mycase_pw
+[2025-10-15 07:15:41] [INFO] data_layer.playwright_driver: ✅ Playwright listo (headless=True)
+[2025-10-15 07:15:58] [WARNING] service_layer.mycase_play_service: ℹ️ Sesión ya activa, saltando login.
+[2025-10-15 07:15:58] [INFO] __main__: 
+========== Procesando LAUREANA_IBANEZ_RAMIREZ (ID 62171166) ==========
+[2025-10-15 07:15:58] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62171166/case_details/info
+[2025-10-15 07:16:07] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62171166. Se omite.
+[2025-10-15 07:16:07] [INFO] __main__: 
+========== Procesando ADELA_GoMEZ_IBARRA (ID 62175166) ==========
+[2025-10-15 07:16:07] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62175166/case_details/info
+[2025-10-15 07:16:15] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62175166. Se omite.
+[2025-10-15 07:16:15] [INFO] __main__: 
+========== Procesando Leticia_Bravo_Carrisalez (ID 62200694) ==========
+[2025-10-15 07:16:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62200694/case_details/info
+[2025-10-15 07:16:24] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62200694. Se omite.
+[2025-10-15 07:16:24] [INFO] __main__: 
+========== Procesando Maira_Alejandra_Pacheco_Rosario (ID 62202858) ==========
+[2025-10-15 07:16:24] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202858/case_details/info
+[2025-10-15 07:16:33] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62202858. Se omite.
+[2025-10-15 07:16:33] [INFO] __main__: 
+========== Procesando Maria_Carmen_PiNa_Ruiz (ID 62202456) ==========
+[2025-10-15 07:16:33] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202456/case_details/info
+[2025-10-15 07:16:42] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62202456. Se omite.
+[2025-10-15 07:16:42] [INFO] __main__: 
+========== Procesando JULIO_CESAR_RUIZ_HERNANDEZ (ID 62221138) ==========
+[2025-10-15 07:16:42] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62221138/case_details/info
+[2025-10-15 07:16:51] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62221138. Se omite.
+[2025-10-15 07:16:51] [INFO] __main__: 
+========== Procesando Juan_Maldonado_Hernandez (ID 62226295) ==========
+[2025-10-15 07:16:51] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226295/case_details/info
+[2025-10-15 07:19:51] [INFO] data_layer.playwright_driver: 🧠 Contexto persistente creado en C:\ChromeProfiles\mycase_pw
+[2025-10-15 07:19:51] [INFO] data_layer.playwright_driver: ✅ Playwright listo (headless=False)
+[2025-10-15 07:20:08] [WARNING] service_layer.mycase_play_service: ℹ️ Sesión ya activa, saltando login.
+[2025-10-15 07:20:08] [INFO] __main__: 
+========== Procesando LAUREANA_IBANEZ_RAMIREZ (ID 62171166) ==========
+[2025-10-15 07:20:08] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62171166/case_details/info
+[2025-10-15 07:20:17] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62171166. Se omite.
+[2025-10-15 07:20:17] [INFO] __main__: 
+========== Procesando ADELA_GoMEZ_IBARRA (ID 62175166) ==========
+[2025-10-15 07:20:17] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62175166/case_details/info
+[2025-10-15 07:20:25] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62175166. Se omite.
+[2025-10-15 07:20:25] [INFO] __main__: 
+========== Procesando Leticia_Bravo_Carrisalez (ID 62200694) ==========
+[2025-10-15 07:20:25] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62200694/case_details/info
+[2025-10-15 07:20:29] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62200694. Se omite.
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Maira_Alejandra_Pacheco_Rosario (ID 62202858) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202858/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62202858 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Maria_Carmen_PiNa_Ruiz (ID 62202456) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202456/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62202456 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando JULIO_CESAR_RUIZ_HERNANDEZ (ID 62221138) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62221138/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62221138 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Juan_Maldonado_Hernandez (ID 62226295) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226295/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62226295 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Adelfa_Gonzalez_Gonzalez (ID 62259626) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62259626/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62259626 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando ENEDINA_MUNOZ_HUERTA (ID 62258167) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258167/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62258167 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando GERMAN_HERRERA_BOLANOS (ID 54143608) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/54143608/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 54143608 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando JESUS_PEREZ_NARCIZO (ID 62258384) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258384/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62258384 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando DILMER_ADELCIO_MARTINEZ_RODRIGUEZ (ID 62282774) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282774/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62282774 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando VICENTE_LOPEZ_MATA (ID 62303087) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303087/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62303087 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando MARIA_CARLOS_SANCHEZ (ID 62303252) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303252/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62303252 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando MARIA_DEL_ROSARIO_FLORENTINO_CRESCENCIO (ID 62282507) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282507/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62282507 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando FRANCISCO_JAVIER_GOMEZ_LICONA (ID 62340383) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340383/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62340383 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando OSCAR_VERA_RAMIREZ (ID 62257786) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62257786/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62257786 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando MIRNA_ANGELICA_AVILA_CRUZ (ID 62302802) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302802/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62302802 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando GERONIMA_POAC_OCHOA (ID 62303376) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303376/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62303376 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando MAXIMINO_BRAVO_ARAUJO (ID 62330569) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330569/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62330569 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando MARISELA_SANDOVAL_GONZALEZ (ID 62302730) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302730/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62302730 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando JUAN_RAMON_SANCHEZ_VERDIN_MARIANA_MENDOZA_FLORES (ID 62340588) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340588/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62340588 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando MAYELA_MACIAS_ORTIZ_RUFINO_DELGADILLO_BERNAL (ID 46666909) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/46666909/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 46666909 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando OMAR_CRUZ_ROMAN (ID 62340161) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340161/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62340161 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando EMILIA_MIER_GAUCIN (ID 62340286) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340286/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62340286 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando ALEJANDRO_ANTONIO_ROBLES_GUZMAN (ID 62370318) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370318/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62370318 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando SAUL_LOPEZ_CHAVEZ (ID 62281255) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando MARISELA_PADILLA_GARCIA (ID 62281255) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Severiano_Cruz_Aguilar (ID 62330442) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Bernardita_Cortes_Aguilar (ID 62330442) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando MAYOLO_QUIRINO_PINEDA (ID 62343517) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62343517/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62343517 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando LILIAN_ELIZETH_OLMEDO_VELASQUEZ (ID 62330572) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando MILTON_DAVID_CARRASCO_OLMEDO (ID 62330572) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Gabriela_Cruz_Villalba (ID 62038414) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62038414/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62038414 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando EDUARDO_JOSE_MARIA_VICENTE (ID 62428663) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62428663/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62428663 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Yakilin_Yajaira_Fuentes_Quinteros (ID 62425764) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62425764/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62425764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Carla_Elizabeth_Ramos_Juarez (ID 62362202) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62362202/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62362202 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Rafaela_Rendon_Lopez (ID 62402237) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62402237/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62402237 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Jorge_Arturo_Lopez_Sanchez (ID 62420454) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62420454/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62420454 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando LILIANA_IVONE_VILLALOBOS_ROSAS (ID 62439315) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62439315/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62439315 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando CRISTELA_GORDILLO_RODRIGUEZ (ID 62370577) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370577/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62370577 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando ELSA_JOSEFINA_CINTO_RUIZ (ID 62370921) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370921/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62370921 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Joel_Solorio_Trujillo (ID 62370405) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370405/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62370405 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando JESUS_ZENON_CHAVEZ_BORJON (ID 62395789) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62395789/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62395789 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:20:29] [INFO] __main__: 
+========== Procesando Patricio_Martinez_Elizalde (ID 62396303) ==========
+[2025-10-15 07:20:29] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62396303/case_details/info
+[2025-10-15 07:20:29] [ERROR] __main__: Error al procesar 62396303 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:21:49] [INFO] data_layer.playwright_driver: 🧠 Contexto persistente creado en C:\ChromeProfiles\mycase_pw
+[2025-10-15 07:21:49] [INFO] data_layer.playwright_driver: ✅ Playwright listo (headless=False)
+[2025-10-15 07:22:07] [WARNING] service_layer.mycase_play_service: ℹ️ Sesión ya activa, saltando login.
+[2025-10-15 07:22:07] [INFO] __main__: 
+========== Procesando LAUREANA_IBANEZ_RAMIREZ (ID 62171166) ==========
+[2025-10-15 07:22:07] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62171166/case_details/info
+[2025-10-15 07:22:15] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62171166. Se omite.
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando ADELA_GoMEZ_IBARRA (ID 62175166) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62175166/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62175166 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Leticia_Bravo_Carrisalez (ID 62200694) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62200694/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62200694 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Maira_Alejandra_Pacheco_Rosario (ID 62202858) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202858/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62202858 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Maria_Carmen_PiNa_Ruiz (ID 62202456) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202456/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62202456 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando JULIO_CESAR_RUIZ_HERNANDEZ (ID 62221138) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62221138/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62221138 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Juan_Maldonado_Hernandez (ID 62226295) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226295/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62226295 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Adelfa_Gonzalez_Gonzalez (ID 62259626) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62259626/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62259626 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando ENEDINA_MUNOZ_HUERTA (ID 62258167) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258167/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62258167 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando GERMAN_HERRERA_BOLANOS (ID 54143608) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/54143608/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 54143608 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando JESUS_PEREZ_NARCIZO (ID 62258384) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258384/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62258384 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando DILMER_ADELCIO_MARTINEZ_RODRIGUEZ (ID 62282774) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282774/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62282774 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando VICENTE_LOPEZ_MATA (ID 62303087) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303087/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62303087 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando MARIA_CARLOS_SANCHEZ (ID 62303252) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303252/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62303252 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando MARIA_DEL_ROSARIO_FLORENTINO_CRESCENCIO (ID 62282507) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282507/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62282507 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando FRANCISCO_JAVIER_GOMEZ_LICONA (ID 62340383) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340383/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62340383 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando OSCAR_VERA_RAMIREZ (ID 62257786) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62257786/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62257786 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando MIRNA_ANGELICA_AVILA_CRUZ (ID 62302802) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302802/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62302802 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando GERONIMA_POAC_OCHOA (ID 62303376) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303376/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62303376 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando MAXIMINO_BRAVO_ARAUJO (ID 62330569) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330569/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62330569 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando MARISELA_SANDOVAL_GONZALEZ (ID 62302730) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302730/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62302730 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando JUAN_RAMON_SANCHEZ_VERDIN_MARIANA_MENDOZA_FLORES (ID 62340588) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340588/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62340588 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando MAYELA_MACIAS_ORTIZ_RUFINO_DELGADILLO_BERNAL (ID 46666909) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/46666909/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 46666909 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando OMAR_CRUZ_ROMAN (ID 62340161) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340161/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62340161 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando EMILIA_MIER_GAUCIN (ID 62340286) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340286/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62340286 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando ALEJANDRO_ANTONIO_ROBLES_GUZMAN (ID 62370318) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370318/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62370318 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando SAUL_LOPEZ_CHAVEZ (ID 62281255) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando MARISELA_PADILLA_GARCIA (ID 62281255) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Severiano_Cruz_Aguilar (ID 62330442) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Bernardita_Cortes_Aguilar (ID 62330442) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando MAYOLO_QUIRINO_PINEDA (ID 62343517) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62343517/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62343517 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando LILIAN_ELIZETH_OLMEDO_VELASQUEZ (ID 62330572) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando MILTON_DAVID_CARRASCO_OLMEDO (ID 62330572) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Gabriela_Cruz_Villalba (ID 62038414) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62038414/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62038414 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando EDUARDO_JOSE_MARIA_VICENTE (ID 62428663) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62428663/case_details/info
+[2025-10-15 07:22:15] [ERROR] __main__: Error al procesar 62428663 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:15] [INFO] __main__: 
+========== Procesando Yakilin_Yajaira_Fuentes_Quinteros (ID 62425764) ==========
+[2025-10-15 07:22:15] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62425764/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62425764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:16] [INFO] __main__: 
+========== Procesando Carla_Elizabeth_Ramos_Juarez (ID 62362202) ==========
+[2025-10-15 07:22:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62362202/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62362202 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:16] [INFO] __main__: 
+========== Procesando Rafaela_Rendon_Lopez (ID 62402237) ==========
+[2025-10-15 07:22:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62402237/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62402237 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:16] [INFO] __main__: 
+========== Procesando Jorge_Arturo_Lopez_Sanchez (ID 62420454) ==========
+[2025-10-15 07:22:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62420454/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62420454 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:16] [INFO] __main__: 
+========== Procesando LILIANA_IVONE_VILLALOBOS_ROSAS (ID 62439315) ==========
+[2025-10-15 07:22:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62439315/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62439315 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:16] [INFO] __main__: 
+========== Procesando CRISTELA_GORDILLO_RODRIGUEZ (ID 62370577) ==========
+[2025-10-15 07:22:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370577/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62370577 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:16] [INFO] __main__: 
+========== Procesando ELSA_JOSEFINA_CINTO_RUIZ (ID 62370921) ==========
+[2025-10-15 07:22:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370921/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62370921 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:16] [INFO] __main__: 
+========== Procesando Joel_Solorio_Trujillo (ID 62370405) ==========
+[2025-10-15 07:22:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370405/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62370405 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:16] [INFO] __main__: 
+========== Procesando JESUS_ZENON_CHAVEZ_BORJON (ID 62395789) ==========
+[2025-10-15 07:22:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62395789/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62395789 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:22:16] [INFO] __main__: 
+========== Procesando Patricio_Martinez_Elizalde (ID 62396303) ==========
+[2025-10-15 07:22:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62396303/case_details/info
+[2025-10-15 07:22:16] [ERROR] __main__: Error al procesar 62396303 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:29:48] [ERROR] data_layer.playwright_driver: ❌ Error creando el contexto de Playwright: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\HoneyMaldonado\AppData\Local\ms-playwright\chromium-1187\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --no-sandbox --disable-dev-shm-usage --disable-gpu --disable-extensions --disable-blink-features=AutomationControlled --start-maximized --user-data-dir=C:\ChromeProfiles\mycase_pw --remote-debugging-pipe about:blank
+<launched> pid=1948
+[pid=1948][err] [1948:7472:1015/072947.575:ERROR:chrome\browser\downgrade\downgrade_utils.cc:36] C:\ChromeProfiles\mycase_pw\Snapshots\140.0.7339.16 -> C:\ChromeProfiles\mycase_pw\Snapshots.CHROME_DELETE\140.0.7339.16: El sistema no puede encontrar la ruta especificada. (0x3)
+Call log:
+  - <launching> C:\Users\HoneyMaldonado\AppData\Local\ms-playwright\chromium-1187\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --no-sandbox --disable-dev-shm-usage --disable-gpu --disable-extensions --disable-blink-features=AutomationControlled --start-maximized --user-data-dir=C:\ChromeProfiles\mycase_pw --remote-debugging-pipe about:blank
+  - <launched> pid=1948
+  - [pid=1948][err] [1948:7472:1015/072947.575:ERROR:chrome\browser\downgrade\downgrade_utils.cc:36] C:\ChromeProfiles\mycase_pw\Snapshots\140.0.7339.16 -> C:\ChromeProfiles\mycase_pw\Snapshots.CHROME_DELETE\140.0.7339.16: El sistema no puede encontrar la ruta especificada. (0x3)
+  - [pid=1948] <gracefully close start>
+  - [pid=1948] <kill>
+  - [pid=1948] <will force kill>
+  - [pid=1948] taskkill stderr: ERROR: no se encontr� el proceso "1948".
+  - [pid=1948] <process did exit: exitCode=33, signal=null>
+  - [pid=1948] starting temporary directories cleanup
+  - [pid=1948] finished temporary directories cleanup
+  - [pid=1948] <gracefully close end>
+Traceback (most recent call last):
+  File "C:\Users\HoneyMaldonado\Documents\scraping\data_layer\playwright_driver.py", line 35, in create_playwright_context
+    context = p.chromium.launch_persistent_context(
+        user_data_dir=str(USER_DATA_DIR),
+    ...<8 lines>...
+        ],
+    )
+  File "C:\Users\HoneyMaldonado\Documents\scraping\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 14804, in launch_persistent_context
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.launch_persistent_context(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<51 lines>...
+        )
+        ^
+    )
+    ^
+  File "C:\Users\HoneyMaldonado\Documents\scraping\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\HoneyMaldonado\Documents\scraping\venv\Lib\site-packages\playwright\_impl\_browser_type.py", line 166, in launch_persistent_context
+    result = await self._channel.send_return_as_dict(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        "launchPersistentContext", TimeoutSettings.launch_timeout, params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HoneyMaldonado\Documents\scraping\venv\Lib\site-packages\playwright\_impl\_connection.py", line 83, in send_return_as_dict
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\HoneyMaldonado\Documents\scraping\venv\Lib\site-packages\playwright\_impl\_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\HoneyMaldonado\AppData\Local\ms-playwright\chromium-1187\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --no-sandbox --disable-dev-shm-usage --disable-gpu --disable-extensions --disable-blink-features=AutomationControlled --start-maximized --user-data-dir=C:\ChromeProfiles\mycase_pw --remote-debugging-pipe about:blank
+<launched> pid=1948
+[pid=1948][err] [1948:7472:1015/072947.575:ERROR:chrome\browser\downgrade\downgrade_utils.cc:36] C:\ChromeProfiles\mycase_pw\Snapshots\140.0.7339.16 -> C:\ChromeProfiles\mycase_pw\Snapshots.CHROME_DELETE\140.0.7339.16: El sistema no puede encontrar la ruta especificada. (0x3)
+Call log:
+  - <launching> C:\Users\HoneyMaldonado\AppData\Local\ms-playwright\chromium-1187\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --no-sandbox --disable-dev-shm-usage --disable-gpu --disable-extensions --disable-blink-features=AutomationControlled --start-maximized --user-data-dir=C:\ChromeProfiles\mycase_pw --remote-debugging-pipe about:blank
+  - <launched> pid=1948
+  - [pid=1948][err] [1948:7472:1015/072947.575:ERROR:chrome\browser\downgrade\downgrade_utils.cc:36] C:\ChromeProfiles\mycase_pw\Snapshots\140.0.7339.16 -> C:\ChromeProfiles\mycase_pw\Snapshots.CHROME_DELETE\140.0.7339.16: El sistema no puede encontrar la ruta especificada. (0x3)
+  - [pid=1948] <gracefully close start>
+  - [pid=1948] <kill>
+  - [pid=1948] <will force kill>
+  - [pid=1948] taskkill stderr: ERROR: no se encontr� el proceso "1948".
+  - [pid=1948] <process did exit: exitCode=33, signal=null>
+  - [pid=1948] starting temporary directories cleanup
+  - [pid=1948] finished temporary directories cleanup
+  - [pid=1948] <gracefully close end>
+
+[2025-10-15 07:30:17] [INFO] data_layer.playwright_driver: 🧠 Contexto persistente creado en C:\ChromeProfiles\mycase_pw
+[2025-10-15 07:30:18] [INFO] data_layer.playwright_driver: ✅ Playwright listo (headless=False)
+[2025-10-15 07:30:34] [WARNING] service_layer.mycase_play_service: ℹ️ Sesión ya activa, saltando login.
+[2025-10-15 07:30:34] [INFO] __main__: 
+========== Procesando LAUREANA_IBANEZ_RAMIREZ (ID 62171166) ==========
+[2025-10-15 07:30:34] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62171166/case_details/info
+[2025-10-15 07:30:38] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62171166. Se omite.
+[2025-10-15 07:30:38] [INFO] __main__: 
+========== Procesando ADELA_GoMEZ_IBARRA (ID 62175166) ==========
+[2025-10-15 07:30:38] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62175166/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62175166 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Leticia_Bravo_Carrisalez (ID 62200694) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62200694/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62200694 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Maira_Alejandra_Pacheco_Rosario (ID 62202858) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202858/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62202858 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Maria_Carmen_PiNa_Ruiz (ID 62202456) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202456/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62202456 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando JULIO_CESAR_RUIZ_HERNANDEZ (ID 62221138) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62221138/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62221138 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Juan_Maldonado_Hernandez (ID 62226295) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226295/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62226295 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Adelfa_Gonzalez_Gonzalez (ID 62259626) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62259626/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62259626 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando ENEDINA_MUNOZ_HUERTA (ID 62258167) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258167/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62258167 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando GERMAN_HERRERA_BOLANOS (ID 54143608) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/54143608/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 54143608 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando JESUS_PEREZ_NARCIZO (ID 62258384) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258384/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62258384 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando DILMER_ADELCIO_MARTINEZ_RODRIGUEZ (ID 62282774) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282774/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62282774 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando VICENTE_LOPEZ_MATA (ID 62303087) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303087/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62303087 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando MARIA_CARLOS_SANCHEZ (ID 62303252) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303252/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62303252 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando MARIA_DEL_ROSARIO_FLORENTINO_CRESCENCIO (ID 62282507) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282507/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62282507 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando FRANCISCO_JAVIER_GOMEZ_LICONA (ID 62340383) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340383/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62340383 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando OSCAR_VERA_RAMIREZ (ID 62257786) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62257786/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62257786 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando MIRNA_ANGELICA_AVILA_CRUZ (ID 62302802) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302802/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62302802 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando GERONIMA_POAC_OCHOA (ID 62303376) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303376/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62303376 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando MAXIMINO_BRAVO_ARAUJO (ID 62330569) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330569/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62330569 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando MARISELA_SANDOVAL_GONZALEZ (ID 62302730) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302730/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62302730 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando JUAN_RAMON_SANCHEZ_VERDIN_MARIANA_MENDOZA_FLORES (ID 62340588) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340588/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62340588 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando MAYELA_MACIAS_ORTIZ_RUFINO_DELGADILLO_BERNAL (ID 46666909) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/46666909/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 46666909 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando OMAR_CRUZ_ROMAN (ID 62340161) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340161/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62340161 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando EMILIA_MIER_GAUCIN (ID 62340286) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340286/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62340286 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando ALEJANDRO_ANTONIO_ROBLES_GUZMAN (ID 62370318) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370318/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62370318 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando SAUL_LOPEZ_CHAVEZ (ID 62281255) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando MARISELA_PADILLA_GARCIA (ID 62281255) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Severiano_Cruz_Aguilar (ID 62330442) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Bernardita_Cortes_Aguilar (ID 62330442) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando MAYOLO_QUIRINO_PINEDA (ID 62343517) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62343517/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62343517 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando LILIAN_ELIZETH_OLMEDO_VELASQUEZ (ID 62330572) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando MILTON_DAVID_CARRASCO_OLMEDO (ID 62330572) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Gabriela_Cruz_Villalba (ID 62038414) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62038414/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62038414 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando EDUARDO_JOSE_MARIA_VICENTE (ID 62428663) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62428663/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62428663 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Yakilin_Yajaira_Fuentes_Quinteros (ID 62425764) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62425764/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62425764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Carla_Elizabeth_Ramos_Juarez (ID 62362202) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62362202/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62362202 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Rafaela_Rendon_Lopez (ID 62402237) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62402237/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62402237 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Jorge_Arturo_Lopez_Sanchez (ID 62420454) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62420454/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62420454 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando LILIANA_IVONE_VILLALOBOS_ROSAS (ID 62439315) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62439315/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62439315 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando CRISTELA_GORDILLO_RODRIGUEZ (ID 62370577) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370577/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62370577 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando ELSA_JOSEFINA_CINTO_RUIZ (ID 62370921) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370921/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62370921 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Joel_Solorio_Trujillo (ID 62370405) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370405/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62370405 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando JESUS_ZENON_CHAVEZ_BORJON (ID 62395789) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62395789/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62395789 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:30:39] [INFO] __main__: 
+========== Procesando Patricio_Martinez_Elizalde (ID 62396303) ==========
+[2025-10-15 07:30:39] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62396303/case_details/info
+[2025-10-15 07:30:39] [ERROR] __main__: Error al procesar 62396303 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:31:17] [INFO] data_layer.playwright_driver: 🧠 Contexto persistente creado en C:\ChromeProfiles\mycase_pw
+[2025-10-15 07:31:18] [INFO] data_layer.playwright_driver: ✅ Playwright listo (headless=False)
+[2025-10-15 07:31:35] [WARNING] service_layer.mycase_play_service: ℹ️ Sesión ya activa, saltando login.
+[2025-10-15 07:31:35] [INFO] __main__: 
+========== Procesando LAUREANA_IBANEZ_RAMIREZ (ID 62171166) ==========
+[2025-10-15 07:31:35] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62171166/case_details/info
+[2025-10-15 07:31:43] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62171166. Se omite.
+[2025-10-15 07:31:43] [INFO] __main__: 
+========== Procesando ADELA_GoMEZ_IBARRA (ID 62175166) ==========
+[2025-10-15 07:31:43] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62175166/case_details/info
+[2025-10-15 07:31:52] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62175166. Se omite.
+[2025-10-15 07:31:52] [INFO] __main__: 
+========== Procesando Leticia_Bravo_Carrisalez (ID 62200694) ==========
+[2025-10-15 07:31:52] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62200694/case_details/info
+[2025-10-15 07:32:00] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62200694. Se omite.
+[2025-10-15 07:32:00] [INFO] __main__: 
+========== Procesando Maira_Alejandra_Pacheco_Rosario (ID 62202858) ==========
+[2025-10-15 07:32:00] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202858/case_details/info
+[2025-10-15 07:32:01] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62202858. Se omite.
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando Maria_Carmen_PiNa_Ruiz (ID 62202456) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202456/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62202456 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando JULIO_CESAR_RUIZ_HERNANDEZ (ID 62221138) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62221138/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62221138 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando Juan_Maldonado_Hernandez (ID 62226295) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226295/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62226295 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando Adelfa_Gonzalez_Gonzalez (ID 62259626) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62259626/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62259626 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando ENEDINA_MUNOZ_HUERTA (ID 62258167) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258167/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62258167 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando GERMAN_HERRERA_BOLANOS (ID 54143608) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/54143608/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 54143608 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando JESUS_PEREZ_NARCIZO (ID 62258384) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258384/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62258384 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando DILMER_ADELCIO_MARTINEZ_RODRIGUEZ (ID 62282774) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282774/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62282774 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando VICENTE_LOPEZ_MATA (ID 62303087) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303087/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62303087 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando MARIA_CARLOS_SANCHEZ (ID 62303252) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303252/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62303252 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando MARIA_DEL_ROSARIO_FLORENTINO_CRESCENCIO (ID 62282507) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282507/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62282507 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando FRANCISCO_JAVIER_GOMEZ_LICONA (ID 62340383) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340383/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62340383 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando OSCAR_VERA_RAMIREZ (ID 62257786) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62257786/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62257786 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando MIRNA_ANGELICA_AVILA_CRUZ (ID 62302802) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302802/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62302802 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando GERONIMA_POAC_OCHOA (ID 62303376) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303376/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62303376 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando MAXIMINO_BRAVO_ARAUJO (ID 62330569) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330569/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62330569 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando MARISELA_SANDOVAL_GONZALEZ (ID 62302730) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302730/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62302730 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando JUAN_RAMON_SANCHEZ_VERDIN_MARIANA_MENDOZA_FLORES (ID 62340588) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340588/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62340588 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando MAYELA_MACIAS_ORTIZ_RUFINO_DELGADILLO_BERNAL (ID 46666909) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/46666909/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 46666909 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando OMAR_CRUZ_ROMAN (ID 62340161) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340161/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62340161 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando EMILIA_MIER_GAUCIN (ID 62340286) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340286/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62340286 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando ALEJANDRO_ANTONIO_ROBLES_GUZMAN (ID 62370318) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370318/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62370318 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando SAUL_LOPEZ_CHAVEZ (ID 62281255) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:32:01] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:01] [INFO] __main__: 
+========== Procesando MARISELA_PADILLA_GARCIA (ID 62281255) ==========
+[2025-10-15 07:32:01] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando Severiano_Cruz_Aguilar (ID 62330442) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando Bernardita_Cortes_Aguilar (ID 62330442) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando MAYOLO_QUIRINO_PINEDA (ID 62343517) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62343517/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62343517 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando LILIAN_ELIZETH_OLMEDO_VELASQUEZ (ID 62330572) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando MILTON_DAVID_CARRASCO_OLMEDO (ID 62330572) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando Gabriela_Cruz_Villalba (ID 62038414) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62038414/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62038414 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando EDUARDO_JOSE_MARIA_VICENTE (ID 62428663) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62428663/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62428663 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando Yakilin_Yajaira_Fuentes_Quinteros (ID 62425764) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62425764/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62425764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando Carla_Elizabeth_Ramos_Juarez (ID 62362202) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62362202/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62362202 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando Rafaela_Rendon_Lopez (ID 62402237) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62402237/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62402237 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando Jorge_Arturo_Lopez_Sanchez (ID 62420454) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62420454/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62420454 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando LILIANA_IVONE_VILLALOBOS_ROSAS (ID 62439315) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62439315/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62439315 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando CRISTELA_GORDILLO_RODRIGUEZ (ID 62370577) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370577/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62370577 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando ELSA_JOSEFINA_CINTO_RUIZ (ID 62370921) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370921/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62370921 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando Joel_Solorio_Trujillo (ID 62370405) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370405/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62370405 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando JESUS_ZENON_CHAVEZ_BORJON (ID 62395789) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62395789/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62395789 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:32:02] [INFO] __main__: 
+========== Procesando Patricio_Martinez_Elizalde (ID 62396303) ==========
+[2025-10-15 07:32:02] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62396303/case_details/info
+[2025-10-15 07:32:02] [ERROR] __main__: Error al procesar 62396303 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:38:36] [INFO] data_layer.playwright_driver: ✅ Playwright lanzado con perfil persistente: C:\ChromeProfiles\mycase_pw
+[2025-10-15 07:38:53] [WARNING] service_layer.mycase_play_service: ℹ️ Sesión ya activa, saltando login.
+[2025-10-15 07:38:53] [INFO] __main__: 
+========== Procesando LAUREANA_IBANEZ_RAMIREZ (ID 62171166) ==========
+[2025-10-15 07:38:53] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62171166/case_details/info
+[2025-10-15 07:41:58] [INFO] data_layer.playwright_driver: 🧠 Contexto persistente creado en C:\ChromeProfiles\mycase_pw
+[2025-10-15 07:41:59] [INFO] data_layer.playwright_driver: ✅ Playwright listo (headless=False)
+[2025-10-15 07:42:16] [WARNING] service_layer.mycase_play_service: ℹ️ Sesión ya activa, saltando login.
+[2025-10-15 07:42:16] [INFO] __main__: 
+========== Procesando LAUREANA_IBANEZ_RAMIREZ (ID 62171166) ==========
+[2025-10-15 07:42:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62171166/case_details/info
+[2025-10-15 07:42:24] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62171166. Se omite.
+[2025-10-15 07:42:24] [INFO] __main__: 
+========== Procesando ADELA_GoMEZ_IBARRA (ID 62175166) ==========
+[2025-10-15 07:42:24] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62175166/case_details/info
+[2025-10-15 07:42:33] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62175166. Se omite.
+[2025-10-15 07:42:33] [INFO] __main__: 
+========== Procesando Leticia_Bravo_Carrisalez (ID 62200694) ==========
+[2025-10-15 07:42:33] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62200694/case_details/info
+[2025-10-15 07:42:42] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62200694. Se omite.
+[2025-10-15 07:42:42] [INFO] __main__: 
+========== Procesando Maira_Alejandra_Pacheco_Rosario (ID 62202858) ==========
+[2025-10-15 07:42:42] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202858/case_details/info
+[2025-10-15 07:42:50] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62202858. Se omite.
+[2025-10-15 07:42:50] [INFO] __main__: 
+========== Procesando Maria_Carmen_PiNa_Ruiz (ID 62202456) ==========
+[2025-10-15 07:42:50] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62202456/case_details/info
+[2025-10-15 07:42:59] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62202456. Se omite.
+[2025-10-15 07:42:59] [INFO] __main__: 
+========== Procesando JULIO_CESAR_RUIZ_HERNANDEZ (ID 62221138) ==========
+[2025-10-15 07:42:59] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62221138/case_details/info
+[2025-10-15 07:43:07] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62221138. Se omite.
+[2025-10-15 07:43:07] [INFO] __main__: 
+========== Procesando Juan_Maldonado_Hernandez (ID 62226295) ==========
+[2025-10-15 07:43:07] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226295/case_details/info
+[2025-10-15 07:43:16] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62226295. Se omite.
+[2025-10-15 07:43:16] [INFO] __main__: 
+========== Procesando Adelfa_Gonzalez_Gonzalez (ID 62259626) ==========
+[2025-10-15 07:43:16] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62259626/case_details/info
+[2025-10-15 07:43:20] [WARNING] parsing_layer.mycase_documents: ⚠️  No se encontró la tabla de archivos para ID 62259626. Se omite.
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando ENEDINA_MUNOZ_HUERTA (ID 62258167) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258167/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62258167 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando GERMAN_HERRERA_BOLANOS (ID 54143608) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/54143608/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 54143608 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando JESUS_PEREZ_NARCIZO (ID 62258384) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62258384/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62258384 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando DILMER_ADELCIO_MARTINEZ_RODRIGUEZ (ID 62282774) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282774/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62282774 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Jose_Luis_Sanchez_Martinez (ID 62226764) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62226764/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62226764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando VICENTE_LOPEZ_MATA (ID 62303087) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303087/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62303087 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando MARIA_CARLOS_SANCHEZ (ID 62303252) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303252/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62303252 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando MARIA_DEL_ROSARIO_FLORENTINO_CRESCENCIO (ID 62282507) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62282507/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62282507 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando FRANCISCO_JAVIER_GOMEZ_LICONA (ID 62340383) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340383/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62340383 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando OSCAR_VERA_RAMIREZ (ID 62257786) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62257786/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62257786 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando MIRNA_ANGELICA_AVILA_CRUZ (ID 62302802) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302802/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62302802 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando GERONIMA_POAC_OCHOA (ID 62303376) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62303376/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62303376 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando MAXIMINO_BRAVO_ARAUJO (ID 62330569) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330569/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62330569 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando MARISELA_SANDOVAL_GONZALEZ (ID 62302730) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62302730/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62302730 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando JUAN_RAMON_SANCHEZ_VERDIN_MARIANA_MENDOZA_FLORES (ID 62340588) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340588/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62340588 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando MAYELA_MACIAS_ORTIZ_RUFINO_DELGADILLO_BERNAL (ID 46666909) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/46666909/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 46666909 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando OMAR_CRUZ_ROMAN (ID 62340161) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340161/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62340161 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando EMILIA_MIER_GAUCIN (ID 62340286) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62340286/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62340286 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando ALEJANDRO_ANTONIO_ROBLES_GUZMAN (ID 62370318) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370318/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62370318 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando SAUL_LOPEZ_CHAVEZ (ID 62281255) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando MARISELA_PADILLA_GARCIA (ID 62281255) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62281255/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62281255 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Severiano_Cruz_Aguilar (ID 62330442) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Bernardita_Cortes_Aguilar (ID 62330442) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330442/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62330442 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando MAYOLO_QUIRINO_PINEDA (ID 62343517) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62343517/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62343517 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando LILIAN_ELIZETH_OLMEDO_VELASQUEZ (ID 62330572) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando MILTON_DAVID_CARRASCO_OLMEDO (ID 62330572) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62330572/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62330572 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Gabriela_Cruz_Villalba (ID 62038414) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62038414/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62038414 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando EDUARDO_JOSE_MARIA_VICENTE (ID 62428663) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62428663/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62428663 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Yakilin_Yajaira_Fuentes_Quinteros (ID 62425764) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62425764/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62425764 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Carla_Elizabeth_Ramos_Juarez (ID 62362202) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62362202/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62362202 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Rafaela_Rendon_Lopez (ID 62402237) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62402237/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62402237 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Jorge_Arturo_Lopez_Sanchez (ID 62420454) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62420454/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62420454 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando LILIANA_IVONE_VILLALOBOS_ROSAS (ID 62439315) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62439315/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62439315 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando CRISTELA_GORDILLO_RODRIGUEZ (ID 62370577) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370577/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62370577 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando ELSA_JOSEFINA_CINTO_RUIZ (ID 62370921) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370921/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62370921 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Joel_Solorio_Trujillo (ID 62370405) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62370405/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62370405 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando JESUS_ZENON_CHAVEZ_BORJON (ID 62395789) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62395789/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62395789 - Page.goto: Target page, context or browser has been closed
+[2025-10-15 07:43:20] [INFO] __main__: 
+========== Procesando Patricio_Martinez_Elizalde (ID 62396303) ==========
+[2025-10-15 07:43:20] [INFO] parsing_layer.mycase_documents: ➡️  Abriendo: https://the-mendoza-law-firm.mycase.com/leads/62396303/case_details/info
+[2025-10-15 07:43:20] [ERROR] __main__: Error al procesar 62396303 - Page.goto: Target page, context or browser has been closed

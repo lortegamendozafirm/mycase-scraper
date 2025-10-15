@@ -42,7 +42,7 @@ def login_mycase():
     """
     p, context, page = create_playwright_context()
     page.goto(DASHBOARD_URL)
-
+    
     try:
         # Si aparece formulario de login, llenar credenciales
         page.fill("#login_session_email", MYCASE_EMAIL or "")
