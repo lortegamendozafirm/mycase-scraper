@@ -16,7 +16,7 @@ def get_case_details(page: Page, case_id: int) -> dict:
     try:
         logger.info(f"🌐 Accediendo a {url}")
         page.goto(url, timeout=25000)
-        page.wait_for_selector("#case-name-header", timeout=3000)
+        page.wait_for_selector("#case-name-header", timeout=1000)
 
         # 1️⃣ Name
         name = page.locator("#case-name-header").inner_text().strip()

@@ -1,7 +1,0 @@
-main.py
- ├─► service_layer.mycase_play_service.login_mycase()
- │     └─► data_layer.playwright_driver.create_playwright_context()
- │           └─► Playwright: abre Chrome persistente
- │
- └─► parsing_layer.mycase_documents.download_leads_pdfs()
-       └─► Interactúa con la página: clics, esperas, descargas

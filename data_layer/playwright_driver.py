@@ -33,6 +33,7 @@ def create_playwright_context(persistent: bool = True):
             context = p.chromium.launch_persistent_context(
                 user_data_dir=str(user_data_dir),
                 headless=PW_HEADLESS,
+                channel="chrome",
                 args=[
                     "--no-sandbox",
                     "--disable-dev-shm-usage",
