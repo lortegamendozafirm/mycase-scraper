@@ -23,3 +23,22 @@ CHROME_USER_DATA_BASE = r"C:\Users\HoneyMaldonado\AppData\Local\Google\Chrome\Us
 
 LOGIN_URL = ("https://www.mycase.com/login/")
 DEBUGGER_ADDRESS = "127.0.0.1:9222"
+
+# ============================================
+# PLAYWRIGHT SETTINGS
+# ============================================
+
+# Carpeta donde se guardará la sesión persistente
+PW_USER_DATA_DIR = os.getenv("PW_USER_DATA_DIR", r"C:\ChromeProfiles\mycase_pw")
+
+# Headless mode (True = no abre ventana)
+PW_HEADLESS = os.getenv("PW_HEADLESS", "true").lower() == "true"
+
+# Timeout global en milisegundos
+PW_TIMEOUT_MS = int(os.getenv("PW_TIMEOUT_MS", 8000))
+
+# Tipos de recursos que se bloquean para mejorar rendimiento
+PW_BLOCK_RESOURCES = os.getenv(
+    "PW_BLOCK_RESOURCES",
+    "image,media,font,stylesheet"
+).split(",")

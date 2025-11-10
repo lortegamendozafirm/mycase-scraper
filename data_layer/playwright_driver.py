@@ -1,14 +1,18 @@
 # ============================================
 # data_layer/playwright_driver.py
 # ============================================
-
+import os
 from playwright.sync_api import sync_playwright
 from pathlib import Path
-import os
 from utils.logger import get_logger
+from config.settings import (
+    PW_USER_DATA_DIR,
+    PW_HEADLESS,
+    PW_TIMEOUT_MS,
+    PW_BLOCK_RESOURCES,
+)
 
 logger = get_logger(__name__)
-
 # 📁 Carpeta persistente para mantener cookies y sesión activa
 USER_DATA_DIR = Path(os.getenv("PW_USER_DATA_DIR", r"C:\ChromeProfiles\mycase_pw"))
 USER_DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -30,11 +34,14 @@ def create_playwright_context(persistent: bool = True):
     p = sync_playwright().start()
 
     try:
+        user_data_dir = Path(PW_USER_DATA_DIR)
+        user_data_dir.mkdir(parents=True, exist_ok=True)
+
         if persistent:
-            # 🚀 Sesión persistente (cookies guardadas entre ejecuciones)
             context = p.chromium.launch_persistent_context(
-                user_data_dir=str(USER_DATA_DIR),
-                headless=HEADLESS,
+                user_data_dir=str(user_data_dir),
+                headless=PW_HEADLESS,
+                channel="chrome",
                 args=[
                     "--no-sandbox",
                     "--disable-dev-shm-usage",
@@ -43,27 +50,26 @@ def create_playwright_context(persistent: bool = True):
                     "--disable-blink-features=AutomationControlled",
                     "--start-maximized",
                 ],
-                channel=CHROME_CHANNEL
             )
-            logger.info("🧠 Contexto persistente creado en %s", USER_DATA_DIR)
+            logger.info("🧠 Contexto persistente creado en %s", user_data_dir)
         else:
-            # 🧩 Sesión efímera (sin guardar cookies)
             browser = p.chromium.launch(
-                headless=HEADLESS,
+                headless=PW_HEADLESS,
                 args=["--no-sandbox", "--disable-dev-shm-usage", "--disable-gpu"]
             )
             context = browser.new_context()
             logger.info("🚀 Contexto efímero iniciado.")
 
         page = context.new_page()
-        page.set_default_timeout(DEFAULT_TIMEOUT)
+        page.set_default_timeout(PW_TIMEOUT_MS)
 
         # ⚙️ Bloquear recursos no necesarios para velocidad
-        page.route("**/*", lambda route, req:
-            route.abort() if req.resource_type in BLOCK_RESOURCES else route.continue_()
-        )
+        if PW_BLOCK_RESOURCES:
+            page.route("**/*", lambda route, req:
+                route.abort() if req.resource_type in PW_BLOCK_RESOURCES else route.continue_()
+            )
 
-        logger.info("✅ Playwright listo (headless=%s)", HEADLESS)
+        logger.info("✅ Playwright listo (headless=%s)", PW_HEADLESS)
         return p, context, page
 
     except Exception as e:

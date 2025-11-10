@@ -7,8 +7,6 @@ from utils.logger import get_logger
 
 logger = get_logger(__name__)
 
-
-
 def main():
     # Ruta a tu CSV con columnas: ID, CLIENT
     csv_path = "cases.csv"
@@ -44,4 +42,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
